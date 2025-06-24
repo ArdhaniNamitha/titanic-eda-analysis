@@ -12,12 +12,12 @@ Exploratory Data Analysis (EDA) on the Titanic dataset using Python libraries li
 
 - Plotly Express – Interactive charts (optional)
 
-Dataset Details:
+**Dataset Details:**
 - File Name: Titanic-Dataset (1).csv
 
 - Description: Passenger information including age, gender, class, fare, and survival status.
 
-Workflow Summary:
+**Workflow Summary:**
 - Imported and loaded the dataset in Colab
 
 - Inspected structure using .info(), .head(), .describe()
@@ -32,7 +32,7 @@ Workflow Summary:
 
 - Created optional interactive plots using Plotly
 
-Key Insights:
+**Key Insights:**
 - Survival is closely related to gender and passenger class
 
 - Detected outliers in Age and Fare columns
@@ -41,7 +41,7 @@ Key Insights:
 
 - Visualization makes hidden patterns easier to understand
 
-Output:
+**Output:**
 - Cleaned, well-understood dataset
 
 - Summary statistics
