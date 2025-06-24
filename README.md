@@ -2,48 +2,48 @@
 Exploratory Data Analysis (EDA) on the Titanic dataset using Python libraries like Pandas, Seaborn, Matplotlib, and Plotly to uncover patterns, visualize distributions, and understand feature relationships.
 
 Tools & Libraries Used:
-Google Colab – Coding environment
+- Google Colab – Coding environment
 
-Pandas – Data manipulation
+- Pandas – Data manipulation
 
-NumPy – Numerical operations
+- NumPy – Numerical operations
 
-Matplotlib & Seaborn – Static visualizations
+- Matplotlib & Seaborn – Static visualizations
 
-Plotly Express – Interactive charts (optional)
+- Plotly Express – Interactive charts (optional)
 
 Dataset Details:
-File Name: Titanic-Dataset (1).csv
+- File Name: Titanic-Dataset (1).csv
 
-Description: Passenger information including age, gender, class, fare, and survival status.
+- Description: Passenger information including age, gender, class, fare, and survival status.
 
 Workflow Summary:
-Imported and loaded the dataset in Colab
+- Imported and loaded the dataset in Colab
 
-Inspected structure using .info(), .head(), .describe()
+- Inspected structure using .info(), .head(), .describe()
 
-Identified missing values
+- Identified missing values
 
-Visualized distributions using histograms and boxplots
+- Visualized distributions using histograms and boxplots
 
-Generated a correlation matrix to identify feature relationships
+- Generated a correlation matrix to identify feature relationships
 
-Analyzed categorical variables (like Sex and Pclass) vs survival using countplots
+- Analyzed categorical variables (like Sex and Pclass) vs survival using countplots
 
-Created optional interactive plots using Plotly
+- Created optional interactive plots using Plotly
 
-Key Insights
-Survival is closely related to gender and passenger class
+Key Insights:
+- Survival is closely related to gender and passenger class
 
-Detected outliers in Age and Fare columns
+- Detected outliers in Age and Fare columns
 
-Strong correlations can guide feature selection for ML
+- Strong correlations can guide feature selection for ML
 
-Visualization makes hidden patterns easier to understand
+- Visualization makes hidden patterns easier to understand
 
-Output
-Cleaned, well-understood dataset
+Output:
+- Cleaned, well-understood dataset
 
-Summary statistics
+- Summary statistics
 
-Visualizations ready for modeling
+- Visualizations ready for modeling
