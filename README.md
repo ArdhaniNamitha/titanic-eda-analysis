@@ -48,6 +48,4 @@ Output:
 
 - Visualizations ready for modeling
 
-Visuals:
-![Correlation Heatmap](correlation_heatmap.png)
 
