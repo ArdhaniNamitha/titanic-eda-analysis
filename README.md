@@ -49,20 +49,12 @@ Exploratory Data Analysis (EDA) on the Titanic dataset using Python libraries li
 - Visualizations ready for modeling
 
 **Visuals:**
-### Correlation Heatmap
-![Correlation Heatmap](correlation%20heatmap.png)
+-  [Correlation Heatmap](correlation%20heatmap.png)
+-  [Histogram](histogram.png)
+-  [Interactive Plotly Chart](interactive%20Plotly%20char.png)
+-  [Numerical Boxplots](numerical%20Boxplots.png)
+-  [Survived vs Categorical Barplots](survived%20vs%20categorical%20Barplots.png)
 
-### Histogram
-![Histogram](histogram.png)
-
-### Interactive Plotly Chart
-![Plotly Chart](interactive%20Plotly%20char.png)
-
-### Numerical Boxplots
-![Boxplots](numerical%20Boxplots.png)
-
-### Survived vs Categorical Barplots
-![Barplots](survived%20vs%20categorical%20Barplots.png)
 
 
 
